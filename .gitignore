@@ -1,0 +1,7 @@
+.DS_Store
+MQTTClient/DerivedData/
+MQTTClient/Pods/
+MQTTClient/MQTTClient.xcodeproj/project.xcworkspace/xcuserdata
+MQTTClient/MQTTClient.xcodeproj/xcuserdata/
+MQTTClient/MQTTClient.xcworkspace/
+MQTTClient/Podfile.lock
